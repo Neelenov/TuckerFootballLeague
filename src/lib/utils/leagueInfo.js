@@ -7,20 +7,20 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>WelcomeXXX to the inaugural season of the Gribble/Neeley Fantasy Football League,</p>
-<p>a competitive battleground spanning from the high deserts of Sparks, Nevada, all</p>
-<p>the way down to the sunny plains of Phoenix, Arizona. As we kick off the 2024-</p>
-<p>2025 NFL season, our league is set to be a thrilling slugfest, filled with intense</p>
-<p>matchups, strategic plays, and the relentless pursuit of victory.</p>
+<p>WelcomeXXX to the inaugural season of the Gribble/Neeley Fantasy Football League,
+a competitive battleground spanning from the high deserts of Sparks, Nevada, all
+the way down to the sunny plains of Phoenix, Arizona. As we kick off the 2024-
+2025 NFL season, our league is set to be a thrilling slugfest, filled with intense
+matchups, strategic plays, and the relentless pursuit of victory.</p>
 
-<p>Who will rise to the occasion and claim the ultimate bragging rights? Will a dark</p>
-<p>horse emerge from the shadows to surprise us all with their shrewd draft pcks and</p>
-<p>keen managerial skills? Or will we see the rise of posers, whose early bravado fades</p>
-<p>as the season progresses?</p>
+<p>Who will rise to the occasion and claim the ultimate bragging rights? Will a dark
+horse emerge from the shadows to surprise us all with their shrewd draft pcks and
+keen managerial skills? Or will we see the rise of posers, whose early bravado fades
+as the season progresses?</p>
 
-<p>Get ready for a season of high stakes, heated rivalries, and unforgettable moments.</p>
-<p>The competition is fierce, the stakes are high, and only one can be crowned the champion</p>
-<p>of the Gribble/Neeley Fantasy Football League. Buckle up, and may the best team win!</p>
+<p>Get ready for a season of high stakes, heated rivalries, and unforgettable moments.
+The competition will be fierce, the stakes high, and only one can be crowned the champion
+of the Gribble/Neeley Fantasy Football League. Buckle up, and may the best team win!</p>
 `;
 
 /*   STEP 3   */
