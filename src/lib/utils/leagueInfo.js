@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>WelcomeXXX to the inaugural season of the Gribble/Neeley Fantasy Football League,
+<p>Welcome to the inaugural season of the Gribble/Neeley Fantasy Football League,
 a competitive battleground spanning from the high deserts of Sparks, Nevada, all
 the way down to the sunny plains of Phoenix, Arizona. As we kick off the 2024-
 2025 NFL season, our league is set to be a thrilling slugfest, filled with intense
