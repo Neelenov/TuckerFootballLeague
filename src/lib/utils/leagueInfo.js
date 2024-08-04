@@ -14,7 +14,7 @@ the way down to the sunny plains of Phoenix, Arizona. As we kick off the 2024-
 matchups, strategic plays, and the relentless pursuit of victory.</p>
 
 <p>Who will rise to the occasion and claim the ultimate bragging rights? Will a dark
-horse emerge from the shadows to surprise us all with their shrewd draft pcks and
+horse emerge from the shadows to surprise us all with their shrewd draft picks and
 keen managerial skills? Or will we see the rise of posers, whose early bravado fades
 as the season progresses?</p>
 
